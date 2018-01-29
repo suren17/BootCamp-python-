@@ -1,0 +1,47 @@
+Today's Exercise:
+----------------
+For your exercise I want you to build a simple calculator, the goal of this exercise is
+to test your skill's as a programmer. I want you to code 4 functions:
+
+def multiply(num_1, num_2): \\ This function must return the product of your two parameters
+
+def divide(num_1, num_2): \\ This function must divide num_1 by num_2 and return the result
+
+def remainder(num_1, num_2): \\ This function must return the remainder of num_1 divided by num_2
+
+def power(num_1, num_2): \\ This function must return num_1 power by num_2
+
+
+sample test's:
+---------------
+>>> multiply(2,3)
+6
+>>> divide(4,2)
+2
+>>> remainder(5,3)
+1
+>>> power(2,3)
+8
+
+
+Challenges:
+------------
+Challenges are not mandatory, but it is advised to do so in order to become a great python programmer.
+
+I want you to code 2 functions:
+
+def divisible_by_two(num_1): \\ returns true if num_1 divisible by 2
+
+def divisible_by_three(num_1): \\ returns true if num_1 is divisible by 3
+
+sample test's:
+--------------
+>>> divisible_by_two(10)
+True
+>>> divisible_by_two(9)
+False
+
+>>> divisible_by_three(9)
+True
+>>> divisible_by_three(10)
+False 
