@@ -1,0 +1,28 @@
+Hopefully you learned functions:
+
+there should be no import statement
+
+HomeWork
+---------
+for next week I want you to make your own power
+You are not alowed to use ** sign anywhere in your code
+
+test cases
+----------
+>>> power(2,3)
+8
+>>> power(3,3)
+27
+
+Challenge
+----------
+make your own factorial
+
+test cases
+----------
+>>> factorial(3)
+6
+>>> factorial(0)
+1
+>>> factorial(4)
+24
